@@ -1,12 +1,12 @@
 {
-  "version": "0.31.0",
+  "version": "0.31.1",
   "description": "Telegram on your own account for the terminal and AI agents (unofficial client)",
   "homepage": "https://better-tg-cli.com",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/TheVilfer/better-tg-cli/releases/download/v0.31.0/better-tg-cli-0.31.0-windows-x64.zip",
-      "hash": "a77d5525798b7bc8f4ed1b21810a143f28bb13a01c3be5211d710c3a5d58a059"
+      "url": "https://github.com/TheVilfer/better-tg-cli/releases/download/v0.31.1/better-tg-cli-0.31.1-windows-x64.zip",
+      "hash": "d5dcbf60e5284dc6bd7f3dde7570edd0ec13f6d8eb30378c4b91093a469b3803"
     }
   },
   "bin": "telegram.exe",
